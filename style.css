@@ -1,0 +1,37 @@
+body{
+	width:752px;
+	height:1062px;
+	border: 1px solid black;
+}
+#NOE, #ROLL,#photo ,#ROLLW,#Name,#NOF,#DOB,#DOBW,#NOC,#CNO ,#t2,#DOE1,#Sub1,#Paper1,#TAll1,#TOC1,#DOE2,#Sub2,#Paper2,#TAll2,#TOC2,#DOE3,#Sub3,#Paper3,#TAll3,#TOC3, #SIG {
+	border: 1px solid black;
+	text-align:center;
+	height:20px;
+}
+#NOE, #ROLL,#photo ,#ROLLW,#Name,#NOF,#DOB,#DOBW,#NOC,#CNO {
+	width:350px;
+	margin-top:20px;
+}
+#uphoto {
+  display: block;
+  max-width:120px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+}
+#SIG { 
+	width:150px;
+	height:30px;}
+#photo{
+	width:120px;
+	height:150px;
+	position:absolute;
+	margin-top:0px;
+	margin-left:590px;
+}
+#logo{
+	margin-left:100px;
+}
+@page{
+	size:A4;
+}
